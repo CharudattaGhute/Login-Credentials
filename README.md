@@ -7,6 +7,10 @@ The **Signup Page** allows users to register for an account by providing their e
 ## Login Page
 
 The **Login Page** enables registered users to log in using their credentials. Similar to the signup page, it features a form for user input and employs React state for managing the login process. You can customize the login logic to interact with a backend server for authentication.
+
+# Features
+- User-Friendly Interface: The frontend of the system is built using HTML, CSS, JavaScript, and Bootstrap, ensuring an intuitive and responsive user interface 
+
 # Getting started
 
 1. Clone the repository to your local machine.
